@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Title</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+  	<header class="header">
+  		<div class="logo">
+  			<a href="#">John <span>O'Donnell</span></a>
+  		</div>
+  	</header>
+  	<div class="container">
+  		<aside class="sidebar">
+  			<ul>
+  				<li class="active"><a href="#">Dashboard</a></li>
+  				<li><a href="#">ODonnell>?</a></li>
+  				<li><a href="#">Stresser</a></li>
+  				<li><a href="#">Friends</a></li>
+  				<li><a href="#">Search</a></li>
+  				<li><a href="#">Purchases</a></li>
+  			</ul>
+  		</aside>
+  		<div class="content">
+  			<h2>Dashboard</h2>
+  			<p>A place for dashboard content</p>
+  			<div class="box">
+  				<div class="box-top">
+  					<h3>The Top Post!!!</h3>
+  				</div>
+  				<div class="box-panel">
+  					<p>Here is content pertaining to the top post.</p>
+  				</div>
+  			</div>
+  			<div class="box">
+  				<div class="box-top">
+  					<h3>Second Post!</h3>
+  				</div>
+  				<div class="box-panel">
+  					<p>Here is content pertaining to the second post.</p>
+  				</div>
+  			</div>
+  			<div class="box">
+  				<div class="box-top">
+  					<h3>Lorem Cat Ipsum</h3>
+  				</div>
+  				<div class="box-panel">
+  					<p>Paw at your fat belly. Vommit food and eat it again shake treat bag, but knock over christmas tree poop on grasses throwup on your pillow, for jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed.</p>
+  				</div>
+  			</div>
+  		</div>
+  	</div>
+  </body>
+</html>
